@@ -14,4 +14,4 @@
 * Un bouton 3 permet de rétro-éclairer l’écran LCD
 
 ### Travail à faire
-**Dessiner le diagramme d'états de transition
+**Dessiner le diagramme d'états de transition**
